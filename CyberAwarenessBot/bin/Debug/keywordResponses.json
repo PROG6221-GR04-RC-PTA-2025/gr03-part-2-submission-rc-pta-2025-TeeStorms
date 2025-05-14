@@ -1,0 +1,22 @@
+{
+  "password": [
+    "🔑 Use complex, unique passwords for each account.",
+    "🔒 Avoid using common words in your passwords.",
+    "🛡️ Change your passwords regularly."
+  ],
+  "scam": [
+    "🚨 Don’t click unknown links.",
+    "📧 Be cautious of emails asking for personal info.",
+    "⚠️ Verify senders before responding."
+  ],
+  "privacy": [
+    "🔐 Protect personal information online.",
+    "🕵️ Use privacy settings on social media.",
+    "🌐 Avoid sharing sensitive info on public Wi-Fi."
+  ],
+  "phishing": [
+    "📧 Be cautious of suspicious emails.",
+    "⚠️ Don’t click links from unknown senders.",
+    "🔍 Hover to verify URLs."
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\CyberAwarenessBot\bin\Debug\CyberAwarenessBot.exe.config
+C:\Users\user\source\repos\CyberAwarenessBot\bin\Debug\CyberAwarenessBot.exe
+C:\Users\user\source\repos\CyberAwarenessBot\bin\Debug\CyberAwarenessBot.pdb
+C:\Users\user\source\repos\CyberAwarenessBot\obj\Debug\CyberAwarenessBot.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CyberAwarenessBot\obj\Debug\CyberAwarenessBot.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CyberAwarenessBot\obj\Debug\CyberAwarenessBot.exe
+C:\Users\user\source\repos\CyberAwarenessBot\obj\Debug\CyberAwarenessBot.pdb
+C:\Users\user\source\repos\CyberAwarenessBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\CyberAwarenessBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\CyberAwarenessBot\obj\Debug\CyberAwa.0DBF9C66.Up2Date
